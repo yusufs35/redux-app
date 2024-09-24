@@ -1,0 +1,6 @@
+
+.dark,
+.dark *{
+    background-color: #121212 !important;
+    color: rgb(235, 235, 235) !important;
+}
